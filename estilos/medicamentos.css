@@ -1,0 +1,18 @@
+.subtitulo{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 90px;
+}
+
+.portafolio{
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.border_esp {
+    width: 100%;
+    border: 1px solid #c7c7c7 ;
+    border-radius: 0;
+   
+}
