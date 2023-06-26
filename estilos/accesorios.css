@@ -14,9 +14,12 @@
     width: 100%;
     border: 2px solid #c7c7c7 ;
     border-radius: 15px;
-   
 }
 
 H2{
     color: brown;
+}
+
+b{
+    text-transform: uppercase;
 }
